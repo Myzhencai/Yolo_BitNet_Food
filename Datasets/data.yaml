@@ -1,0 +1,13 @@
+train: D:/JudyYolo/Datasets/train/images
+val: D:/JudyYolo/Datasets/valid/images
+test: D:/JudyYolo/Datasets/test/images
+
+nc: 6
+names: ['Onion', 'beef', 'chicken', 'eggs', 'potato', 'radish']
+
+roboflow:
+  workspace: dataset-for-yolo
+  project: detecting-food-ingredients-for-yolov5
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dataset-for-yolo/detecting-food-ingredients-for-yolov5/dataset/9

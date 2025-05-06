@@ -1,0 +1,9 @@
+[submodule "agent/BitNet"]
+	path = agent/BitNet
+	url = https://github.com/microsoft/BitNet.git
+[submodule "yolo/ultralytics"]
+	path = yolo/ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
+[submodule "cookbook/HowToCook"]
+	path = cookbook/HowToCook
+	url = https://github.com/Anduin2017/HowToCook.git
