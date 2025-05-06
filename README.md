@@ -1,0 +1,2 @@
+# Yolo_BitNet_Food
+这里是基于YOLOv12 和BitNet 模型构建的食物识别与菜品推荐算法课程课件
